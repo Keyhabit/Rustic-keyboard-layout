@@ -3,7 +3,7 @@ As a very well-balanced all-rounder with a fresh approach to vowels / punctuatio
 
 It's named according to the many nature-related terms visible on the vowel hand (e. g. oak, yak and German Kuh, Huf).
 
-Its advantages lie exclusively in the stats of the vowel hand. Here it has a much larger share of SFBs and SFSs / DSFBs on the index finger, relieving the ring finger, plus it has a much lower amount of scissoring from having punctuation on index. See the comparison with Gallium below for detailed stats.
+Its advantages lie almost exclusively in the stats of the vowel hand. Here it has better finger balance (load shifted from ring to index finger), a much larger share of SFBs and SFSs / DSFBs on the index finger, again relieving the ring finger, plus it has a much lower amount of scissoring from having punctuation on index. See the comparison with Gallium below for detailed stats.
 
 It is not yet a well-tried layout and adjustments may have to be made, e. g. wapping pz and yj, possibly also moving k further down in the right central column.
 
@@ -19,6 +19,7 @@ This comparison was made with ![https://www.reddit.com/r/KeyboardLayouts/comment
 
 
 Notes on the comparison with Gallium:
+- Rustic has somewhat better finger balance: Around two percent of total load are shifted from the ring to the index fingers compared to Gallium.
 - Per-finger SFB on the vowel hand is much better (Rustic: 72.6% of SFBs on index vs. Gallium's 51%), as is per-finger SFS (Rustic has 47% to Gallium's 38% on the index fingers).
 - Hand balance is slightly better for Rustic - almost a perfect 50:50.
 - Finger load: while piniky and middle finger load is more or less identical, there is considerably less stress on the right ring finger (pinkies are about the same) plus with Rustic, there is more load on the index fingers
