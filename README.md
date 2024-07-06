@@ -16,14 +16,14 @@ Depending on individual preference, some adjustments may have to be made with re
 ![Rustic layout-all](https://github.com/Keyhabit/Rustic-keyboard-layout/assets/56698156/92947b40-c5d7-4ff9-84c6-52da48cf8afa)
 
 ![Rustic-in-ULC-Ultimate-Layout-Comparison-xlsx--Excel-06072024-083915](https://github.com/Keyhabit/Rustic-keyboard-layout/assets/56698156/73e5c332-0b04-4ddb-ad79-6ca2afc6c064)
-This comparison was made with ![https://www.reddit.com/r/KeyboardLayouts/comments/18gut6r/detailed_comparison_of_popular_layouts_with_vowel/][this] tool I created.
+This comparison was made with [this](https://www.reddit.com/r/KeyboardLayouts/comments/18gut6r/detailed_comparison_of_popular_layouts_with_vowel/) tool I created.
 
 
 ![Rustic-Gallium-comparison-xlsx--Excel-06072024-083810](https://github.com/Keyhabit/Rustic-keyboard-layout/assets/56698156/fa002f88-39c7-4fb7-9673-07acf36b1c66)
 
 
 Notes on the comparison with Gallium:
-- Rustic has somewhat better finger balance: Around two percent of total load are shifted from the ring to the index fingers compared to Gallium.
+- Rustic has better finger balance: Around two percent of total load are shifted from the ring to the index fingers compared to Gallium.
 - Per-finger SFB on the vowel hand is much better (Rustic: 72.6% of SFBs on index vs. Gallium's 51%), as is per-finger SFS (Rustic has 47% to Gallium's 38% on the index fingers).
 - Hand balance is slightly better for Rustic - almost a perfect 50:50.
 - Finger load: while piniky and middle finger load is more or less identical, there is considerably less stress on the right ring finger (pinkies are about the same) plus with Rustic, there is more load on the index fingers
