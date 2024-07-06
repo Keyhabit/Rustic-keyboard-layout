@@ -1,7 +1,7 @@
 # Rustic-keyboard-layout
 As a very well-balanced allrounder with a fresh approach to vowels / punctuation, this is a high-performing alternative to Gallium and other alternative keyboard layouts.
 
-Named after the many nature-related terms visible on the vowel hand (e. g. oak, yak and German Kuh, Huf)
+It's named according to the many nature-related terms visible on the vowel hand (e. g. oak, yak and German Kuh, Huf).
 
 ![Rustic layout](https://github.com/Keyhabit/Rustic-keyboard-layout/assets/56698156/9f3ae2d8-1f53-4279-9cf9-4b07984722cb)
 
