@@ -9,7 +9,8 @@ It is not yet a well-tried layout and adjustments may have to be made, e. g. wap
 
 ![Rustic layout](https://github.com/Keyhabit/Rustic-keyboard-layout/assets/56698156/9f3ae2d8-1f53-4279-9cf9-4b07984722cb)
 
-This comparison was made with ![this](https://github.com/Keyhabit/Rustic-keyboard-layout/assets/56698156/4d50f0bd-e9d3-4a60-9f37-d2c1867fe063)
+![Rustic-in-ULC-Ultimate-Layout-Comparison-xlsx--Excel-06072024-083915](https://github.com/Keyhabit/Rustic-keyboard-layout/assets/56698156/73e5c332-0b04-4ddb-ad79-6ca2afc6c064)
+This comparison was made with ![https://www.reddit.com/r/KeyboardLayouts/comments/18gut6r/detailed_comparison_of_popular_layouts_with_vowel/][this] tool I created.
 
 ![Rustic-Gallium-comparison-xlsx--Excel-06072024-083810](https://github.com/Keyhabit/Rustic-keyboard-layout/assets/56698156/fa002f88-39c7-4fb7-9673-07acf36b1c66)
 
