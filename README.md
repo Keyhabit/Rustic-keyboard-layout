@@ -1,11 +1,11 @@
 # Rustic-keyboard-layout
-As a very well-balanced all-rounder with a fresh approach to vowels / punctuation, this is a high-performing alternative to Gallium and other custom keyboard layouts.
+As a very well-balanced all-rounder with a fresh approach to vowel configuration and punctuation positions, this is a high-performing alternative other custom keyboard layouts, most akin to Gallium and Graphite.
 
 It's named according to the many nature-related terms visible on the vowel hand (e. g. oak, yak and German Kuh, Huf).
 
 Its advantages lie almost exclusively in the stats of the vowel hand. Here it has better finger balance (load shifted from ring to index finger), a much larger share of SFBs and SFSs / DSFBs on the index finger, again relieving the ring finger, plus it has a much lower amount of scissoring from having punctuation on index. See the comparison with Gallium below for detailed stats.
 
-It is not yet a well-tried layout and adjustments may have to be made, e. g. wapping pz and yj, possibly also moving k further down in the right central column.
+Depending on individual preference, some adjustments may have to be made with regard to ergonomics, e. g. swapping the letter pairs pz and yj.
 
 ![Rustic layout-compact](https://github.com/Keyhabit/Rustic-keyboard-layout/assets/56698156/5a242840-431d-4244-a894-142c70e0e9e1)
 
