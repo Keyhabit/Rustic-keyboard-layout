@@ -7,12 +7,16 @@ Its advantages lie exclusively in the stats of the vowel hand. Here it has a muc
 
 It is not yet a well-tried layout and adjustments may have to be made, e. g. wapping pz and yj, possibly also moving k further down in the right central column.
 
+
 ![Rustic layout](https://github.com/Keyhabit/Rustic-keyboard-layout/assets/56698156/9f3ae2d8-1f53-4279-9cf9-4b07984722cb)
+
 
 ![Rustic-in-ULC-Ultimate-Layout-Comparison-xlsx--Excel-06072024-083915](https://github.com/Keyhabit/Rustic-keyboard-layout/assets/56698156/73e5c332-0b04-4ddb-ad79-6ca2afc6c064)
 This comparison was made with ![https://www.reddit.com/r/KeyboardLayouts/comments/18gut6r/detailed_comparison_of_popular_layouts_with_vowel/][this] tool I created.
 
+
 ![Rustic-Gallium-comparison-xlsx--Excel-06072024-083810](https://github.com/Keyhabit/Rustic-keyboard-layout/assets/56698156/fa002f88-39c7-4fb7-9673-07acf36b1c66)
+
 
 Notes on the comparison with Gallium:
 - Per-finger SFB on the vowel hand is much better (Rustic: 72.6% of SFBs on index vs. Gallium's 51%), as is per-finger SFS (Rustic has 47% to Gallium's 38%).
