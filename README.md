@@ -7,6 +7,7 @@ Its advantages are almost exclusively related to the stats of the vowel hand as 
 - better finger balance (load shifted from ring to the strong and more nimble index finger)
 - a significantly larger share of SFBs and SFSs (or DSFBs) on the index finger, again relieving the ring finger
 - a much lower amount of scissoring from having punctuation on index.
+- by far the lowest amount of LSB (lateral stretch bigrams).
 See the comparison with Gallium below for detailed stats.
 
 Depending on individual preference, some adjustments may have to be made with regard to ergonomics, e. g. swapping the letter pairs pz and yj.
