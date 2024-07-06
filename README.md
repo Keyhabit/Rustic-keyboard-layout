@@ -3,7 +3,7 @@ As a very well-balanced allrounder with a fresh approach to vowels / punctuation
 
 It's named according to the many nature-related terms visible on the vowel hand (e. g. oak, yak and German Kuh, Huf).
 
-Its advantages lie exclusively in the stats of the vowel hand. Here it has a large share of SFBs on the index finger, relieving the ring finger, plus it has a much lower amount of scissoring here because of the punctuation being on the index as well.
+Its advantages lie exclusively in the stats of the vowel hand. Here it has a large share of SFBs on the index finger, relieving the ring finger, plus it has a much lower amount of scissoring from moving punctuation onto index as well.
 
 ![Rustic layout](https://github.com/Keyhabit/Rustic-keyboard-layout/assets/56698156/9f3ae2d8-1f53-4279-9cf9-4b07984722cb)
 
