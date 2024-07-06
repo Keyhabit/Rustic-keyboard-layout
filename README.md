@@ -1,5 +1,5 @@
 # Rustic-keyboard-layout
-A high-performing alternative to Gallium and other alternative keyboard layouts
+A high-performing alternative to Gallium and other alternative keyboard layouts - a well-balanced allrounder
 
 Named after the many nature-related terms visible on the vowel hand (e. g. oak, yak and German Kuh, Huf)
 
