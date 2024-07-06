@@ -1,6 +1,8 @@
 # Rustic-keyboard-layout
 A high-performing alternative to Gallium and other alternative keyboard layout
 
+Named after the many livestock-related terms visible on the vowel hand (e. g. Yak and German Kuh, Huf)
+
 ![Rustic layout](https://github.com/Keyhabit/Rustic-keyboard-layout/assets/56698156/9f3ae2d8-1f53-4279-9cf9-4b07984722cb)
 
 ![Rustic-in-ULC-Ultimate-Layout-Comparison-xlsx--Excel-06072024-083915](https://github.com/Keyhabit/Rustic-keyboard-layout/assets/56698156/4d50f0bd-e9d3-4a60-9f37-d2c1867fe063)
