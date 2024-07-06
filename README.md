@@ -3,7 +3,11 @@ As a very well-balanced all-rounder with a fresh approach to vowel configuration
 
 It's named according to the many nature-related terms visible on the vowel hand (e. g. oak, yak and German Kuh, Huf).
 
-Its advantages lie almost exclusively in the stats of the vowel hand. Here it has better finger balance (load shifted from ring to index finger), a much larger share of SFBs and SFSs / DSFBs on the index finger, again relieving the ring finger, plus it has a much lower amount of scissoring from having punctuation on index. See the comparison with Gallium below for detailed stats.
+Its advantages are almost exclusively related to the stats of the vowel hand as the consonant hand layout is very similar to most other approaches. Comparing its vowel hand layout to most other popular custom layouts, Rustic has:
+- better finger balance (load shifted from ring to the strong and more nimble index finger)
+- a significantly larger share of SFBs and SFSs (or DSFBs) on the index finger, again relieving the ring finger
+- a much lower amount of scissoring from having punctuation on index.
+See the comparison with Gallium below for detailed stats.
 
 Depending on individual preference, some adjustments may have to be made with regard to ergonomics, e. g. swapping the letter pairs pz and yj.
 
