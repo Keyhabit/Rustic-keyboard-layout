@@ -7,9 +7,9 @@ Its advantages lie exclusively in the stats of the vowel hand. Here it has a muc
 
 It is not yet a well-tried layout and adjustments may have to be made, e. g. wapping pz and yj, possibly also moving k further down in the right central column.
 
+![Rustic layout-compact](https://github.com/Keyhabit/Rustic-keyboard-layout/assets/56698156/5a242840-431d-4244-a894-142c70e0e9e1)
 
-![Rustic layout](https://github.com/Keyhabit/Rustic-keyboard-layout/assets/56698156/9f3ae2d8-1f53-4279-9cf9-4b07984722cb)
-
+![Rustic layout-all](https://github.com/Keyhabit/Rustic-keyboard-layout/assets/56698156/92947b40-c5d7-4ff9-84c6-52da48cf8afa)
 
 ![Rustic-in-ULC-Ultimate-Layout-Comparison-xlsx--Excel-06072024-083915](https://github.com/Keyhabit/Rustic-keyboard-layout/assets/56698156/73e5c332-0b04-4ddb-ad79-6ca2afc6c064)
 This comparison was made with ![https://www.reddit.com/r/KeyboardLayouts/comments/18gut6r/detailed_comparison_of_popular_layouts_with_vowel/][this] tool I created.
