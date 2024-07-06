@@ -30,4 +30,5 @@ Notes on the comparison with Gallium:
 - Finger load: while piniky and middle finger load is more or less identical, there is considerably less stress on the right ring finger (pinkies are about the same) plus with Rustic, there is more load on the index fingers
 - Period and comma are easier to type on Rustic: right index (rather than right pinky) followed by right thumb; punctuation is well placed on the central index column as the following use of the spacebar affords the hand some time to slide back into the home position.
 - Per-finger SFB: Rust's higher overall SFB stat is mostly covered by the index fingers, relieving the right ring finger in particular, though right pinky SFB is slightly higher on Rustic.
+- Rustic's slow three-unit SFB on the vowel index (FH) is much less frequent than Gallium's FY.
 - Rustic beats most other layouts on scissoring and related stats by shifting punctuation onto the index fingers.
