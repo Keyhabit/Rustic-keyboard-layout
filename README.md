@@ -19,7 +19,7 @@ This comparison was made with ![https://www.reddit.com/r/KeyboardLayouts/comment
 
 
 Notes on the comparison with Gallium:
-- Per-finger SFB on the vowel hand is much better (Rustic: 72.6% of SFBs on index vs. Gallium's 51%), as is per-finger SFS (Rustic has 47% to Gallium's 38%).
+- Per-finger SFB on the vowel hand is much better (Rustic: 72.6% of SFBs on index vs. Gallium's 51%), as is per-finger SFS (Rustic has 47% to Gallium's 38% on the index fingers).
 - Hand balance is slightly better for Rustic - almost a perfect 50:50.
 - Finger load: while piniky and middle finger load is more or less identical, there is considerably less stress on the right ring finger (pinkies are about the same) plus with Rustic, there is more load on the index fingers
 - Period and comma are easier to type on Rustic: right index (rather than right pinky) followed by right thumb; punctuation is well placed on the central index column as the following use of the spacebar affords the hand some time to slide back into the home position.
