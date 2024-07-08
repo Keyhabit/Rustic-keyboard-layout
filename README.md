@@ -1,4 +1,4 @@
-# Rustic-keyboard-layout
+# The Rustic keyboard layout
 As a very well-balanced all-rounder with a fresh approach to vowel configuration and punctuation positions, this is a high-performing alternative other custom keyboard layouts, most akin to Gallium and Graphite.
 
 It's named according to the many nature-related terms visible on the vowel hand (e. g. oak, yak and German Kuh, Huf).
